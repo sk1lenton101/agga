@@ -7,7 +7,10 @@
     </head>
   <body>
     <style>
-      body { background-color: #7FDBFF )    
+      body { background-color: #7FDBFF }
+    </style>
+  </body>
     <p> yaahaaaaawwwnn </p>
     <h2 id="head"> errrr,,,,.. </h2>
+    </html>
   
